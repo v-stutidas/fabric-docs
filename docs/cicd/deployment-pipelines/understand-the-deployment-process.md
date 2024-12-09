@@ -279,6 +279,8 @@ The following semantic model properties are also not copied during deployment:
 * Query caching settings (can be inherited from the capacity)
 
 * Endorsement settings
+  
+* Q & A settings
 
 ### Supported semantic model features
 
